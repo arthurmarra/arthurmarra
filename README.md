@@ -1,6 +1,6 @@
 ### Olá, me chamo Arthur Marra, bem vindo ao meu repositório 👋
 
-- 🌱 Estudando: HTML5, CSS3, Java, Angular
+- 🌱 Estudando: HTML5, CSS3, JavaScript, Angular
 - 👯 Quero ajudar em: Novos projetos
 - 🤔 Preciso de ajuda em: Novas Linguagens de Programação
 - 💬 Pergunte-me sobre: Qualquer coisa, aberto a conversas
